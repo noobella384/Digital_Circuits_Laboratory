@@ -35,18 +35,18 @@ This section contains hyperlinks to the problem statements, code, and reports fo
 
 | Task No. | Problem Statement | Code | Report |
 |----------|-------------------|------|--------|
-| 1        | [LAB1 Basic logic gates.pdf](./LAB1%20Basic%20logic%20gates.pdf) | [Code](./Code_files/LAB1%20Basic%20logic%20gates.vhdl) | [Report](./Lab_Reports/LAB1%20Basic%20logic%20gates.pdf) |
-| 2        | [LAB2 4bit Adder Subtractor.pdf](./LAB2%204bit%20Adder%20Subtractor.pdf) | [Code](./Code_files/LAB2%204bit%20Adder%20Subtractor.vhdl) | [Report](./Lab_Reports/LAB2%204bit%20Adder%20Subtractor.pdf) |
-| 3        | [LAB3 Encoders.pdf](./LAB3%20Encoders.pdf) | [Code](./Code_files/LAB3%20Encoders.vhdl) | [Report](./Lab_Reports/LAB3%20Encoders.pdf) |
-| 4        | [LAB4 Muxes using logic gates.pdf](./LAB4%20Muxes%20using%20logic%20gates.pdf) | [Code](./Code_files/LAB4%20Muxes%20using%20logic%20gates.vhdl) | [Report](./Lab_Reports/LAB4%20Muxes%20using%20logic%20gates.pdf) |
-| 5        | [LAB5 Majority Circuit using Logic Gates.pdf](./LAB5%20Majority%20Circuit%20using%20Logic%20Gates.pdf) | [Code](./Code_files/LAB5%20Majority%20Circuit%20using%20Logic%20Gates.vhdl) | [Report](./Lab_Reports/LAB5%20Majority%20Circuit%20using%20Logic%20Gates.pdf) |
-| 6        | [LAB6 Universal Rotator using Mux.pdf](./LAB6%20Universal%20Rotator%20using%20Mux.pdf) | [Code](./Code_files/LAB6%20Universal%20Rotator%20using%20Mux.vhdl) | [Report](./Lab_Reports/LAB6%20Universal%20Rotator%20using%20Mux.pdf) |
-| 7        | [LAB7 BCD Adder.pdf](./LAB7%20BCD%20Adder.pdf) | [Code](./Code_files/LAB7%20BCD%20Adder.vhdl) | [Report](./Lab_Reports/LAB7%20BCD%20Adder.pdf) |
-| 8        | [LAB8 Arithmetic Logic Unit.pdf](./LAB8%20Arithmetic%20Logic%20Unit.pdf) | [Code](./Code_files/LAB8%20Arithmetic%20Logic%20Unit.vhdl) | [Report](./Lab_Reports/LAB8%20Arithmetic%20Logic%20Unit.pdf) |
-| 9        | [LAB9 Sequence Generator.pdf](./LAB9%20Sequence%20Generator.pdf) | [Code](./Code_files/LAB9%20Sequence%20Generator.vhdl) | [Report](./Lab_Reports/LAB9%20Sequence%20Generator.pdf) |
-| 10       | [LAB10 String Detector Mealy Machine.pdf](./LAB10%20String%20Detector%20Mealy%20Machine.pdf) | [Code](./Code_files/LAB10%20String%20Detector%20Mealy%20Machine.vhdl) | [Report](./Lab_Reports/LAB10%20String%20Detector%20Mealy%20Machine.pdf) |
-| 11       | [LAB11 Clock Divider.pdf](./LAB11%20Clock%20Divider.pdf) | [Code](./Code_files/LAB11%20Clock%20Divider.vhdl) | [Report](./Lab_Reports/LAB11%20Clock%20Divider.pdf) |
-| 12       | [LAB12 Traffic Signal Controller.pdf](./LAB12%20Traffic%20Signal%20Controller.pdf) | [Code](./Code_files/LAB12%20Traffic%20Signal%20Controller.vhdl) | [Report](./Lab_Reports/LAB12%20Traffic%20Signal%20Controller.pdf) |
+| 1        | [LAB1 Basic logic gates.pdf](./LAB1%20Basic%20logic%20gates.pdf) | [Code](./Code_files/LAB1%20Basic%20logic%20gates.zip) | [Report](./Lab_Reports/LAB1%20Basic%20logic%20gates.pdf) |
+| 2        | [LAB2 4bit Adder Subtractor.pdf](./LAB2%204bit%20Adder%20Subtractor.pdf) | [Code](./Code_files/LAB2%204bit%20Adder%20Subtractor.zip) | [Report](./Lab_Reports/LAB2%204bit%20Adder%20Subtractor.pdf) |
+| 3        | [LAB3 Encoders.pdf](./LAB3%20Encoders.pdf) | [Code](./Code_files/LAB3%20Encoders.zip) | [Report](./Lab_Reports/LAB3%20Encoders.pdf) |
+| 4        | [LAB4 Muxes using logic gates.pdf](./LAB4%20Muxes%20using%20logic%20gates.pdf) | [Code](./Code_files/LAB4%20Muxes%20using%20logic%20gates.zip) | [Report](./Lab_Reports/LAB4%20Muxes%20using%20logic%20gates.pdf) |
+| 5        | [LAB5 Majority Circuit using Logic Gates.pdf](./LAB5%20Majority%20Circuit%20using%20Logic%20Gates.pdf) | [Code](./Code_files/LAB5%20Majority%20Circuit%20using%20Logic%20Gates.zip) | [Report](./Lab_Reports/LAB5%20Majority%20Circuit%20using%20Logic%20Gates.pdf) |
+| 6        | [LAB6 Universal Rotator using Mux.pdf](./LAB6%20Universal%20Rotator%20using%20Mux.pdf) | [Code](./Code_files/LAB6%20Universal%20Rotator%20using%20Mux.zip) | [Report](./Lab_Reports/LAB6%20Universal%20Rotator%20using%20Mux.pdf) |
+| 7        | [LAB7 BCD Adder.pdf](./LAB7%20BCD%20Adder.pdf) | [Code](./Code_files/LAB7%20BCD%20Adder.zip) | [Report](./Lab_Reports/LAB7%20BCD%20Adder.pdf) |
+| 8        | [LAB8 Arithmetic Logic Unit.pdf](./LAB8%20Arithmetic%20Logic%20Unit.pdf) | [Code](./Code_files/LAB8%20Arithmetic%20Logic%20Unit.zip) | [Report](./Lab_Reports/LAB8%20Arithmetic%20Logic%20Unit.pdf) |
+| 9        | [LAB9 Sequence Generator.pdf](./LAB9%20Sequence%20Generator.pdf) | [Code](./Code_files/LAB9%20Sequence%20Generator.zip) | [Report](./Lab_Reports/LAB9%20Sequence%20Generator.pdf) |
+| 10       | [LAB10 String Detector Mealy Machine.pdf](./LAB10%20String%20Detector%20Mealy%20Machine.pdf) | [Code](./Code_files/LAB10%20String%20Detector%20Mealy%20Machine.zip) | [Report](./Lab_Reports/LAB10%20String%20Detector%20Mealy%20Machine.pdf) |
+| 11       | [LAB11 Clock Divider.pdf](./LAB11%20Clock%20Divider.pdf) | [Code](./Code_files/LAB11%20Clock%20Divider.zip) | [Report](./Lab_Reports/LAB11%20Clock%20Divider.pdf) |
+| 12       | [LAB12 Traffic Signal Controller.pdf](./LAB12%20Traffic%20Signal%20Controller.pdf) | [Code](./Code_files/LAB12%20Traffic%20Signal%20Controller.zip) | [Report](./Lab_Reports/LAB12%20Traffic%20Signal%20Controller.pdf) |
 
 ## Hardware Implementation and Advanced Testing
 For several lab tasks, I implemented the designs on hardware, specifically using the **FPGA XEN 10 board**. This provided a practical testbed for validating my designs beyond simulation, ensuring that they work under real-world conditions.
